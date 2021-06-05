@@ -12,53 +12,19 @@ about: 请根据指示规范填写友链格式。
 
 {
 
-"title": "",
+    "title": "站点名称",
 
-"screenshot": "",
+    "screenshot": "https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://<你的域名>/",
 
-"url": "",
+    "url": "站点链接",
 
-"avatar": "",
+    "avatar": "头像链接",
 
-"description": "",
+    "description": "站点描述",
 
-"keywords": ""
+    "types": ""
 
 }
 
 ```
-
-<!--
-
-"title": "站点名称",
-
-"screenshot": "站点预览图链接",
-
-"url": "站点链接",
-
-"avatar": "头像链接",
-
-"description": "站点描述",
-
-"keywords": "关键词，作为分组名"
-
--->
-
-<!-- 示例 -->
-
-<!--
-
-"title": "一只小开Ting",
-
-"screenshot": "https://cdn.jsdelivr.net/gh/Akilarlxh/ScreenShot@gh-pages/akilar.top.jpg",
-
-"url": "https://pukaiting.top/",
-
-"avatar": "https://pukaiting.top/img/avatar.png",
-
-"description": "描述期待您的光临！",
-
-"keywords": "朋友"
-
--->
 
